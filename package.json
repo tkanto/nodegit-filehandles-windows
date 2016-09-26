@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^0.30.0",
-    "nodegit": "^0.16.0",
-    "prompt": "^1.0.0"
+    "nodegit": "^0.16.0"
   }
 }
