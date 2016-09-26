@@ -1,5 +1,5 @@
 {
-  "name": "nodegit-test",
+  "name": "nodegit-filehandles-windows",
   "version": "1.0.0",
   "description": "Simple test to demonstrate nodegit keeps .git/objects/pack/* files opened indefinitely",
   "main": "index.js",
